@@ -27,6 +27,7 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shahd-abu-sharif&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="shahd-abu-sharif" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=shahd-abu-sharif&theme=tokyonight&hide_border=false" alt="shahd-abu-sharif" /></p>
 
