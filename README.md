@@ -26,12 +26,12 @@
 <br>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-abu-sharif&theme=tokyonight&hide_progress=true)
+![](https://nirzak-streak-stats.vercel.app/?user=shahd-abu-sharif&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=shahd-abu-sharif&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=shahd-abu-sharif&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-abu-sharif&theme=tokyonight&hide_progress=true)
 
 
 
