@@ -12,8 +12,8 @@ I enjoy building scalable applications, designing efficient databases, and devel
 
 ## 🎯 Currently
 
-- Leading the development of Atlas, a Field Training Management System.
-- Building Atlas: A Field Training Management System as backend devekloper.
+- Leading the development of [Tadreeby](https://github.com/shahd-abu-sharif/Tadreeby/tree/dev), a Field Training Management System.
+- Building Tadreeby: A Field Training Management System as backend devekloper.
 - Managing project planning, task coordination, and technical decisions as Team Lead.
 - Developing backend services and system architecture using NestJS and PostgreSQL.
 - Implementing advanced backend architecture with NestJS and PostgreSQL.
